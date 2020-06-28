@@ -1,3 +1,5 @@
-# Handling User Input
-
-Use this project to code along with the [Handling User Input](https://developer.apple.com/tutorials/swiftui/handling-user-input) tutorial.
+Handling User Input
+	
+Part 3 of the SwiftUI tutorials
+	
+https://developer.apple.com/tutorials/swiftui/handling-user-input
