@@ -6,7 +6,7 @@
 //  Copyright © 2020 Apple. All rights reserved.
 //
 
-import Foundation
+import SwiftUI
 
 final class UserData: ObservableObject {
     // final class can't be inheritance
